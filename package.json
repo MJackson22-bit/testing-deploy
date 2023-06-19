@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon source/index.js"
+        "dev": "nodemon source/index.js",
+        "start": "node source/index.js"
     },
     "author": "heyling",
     "license": "ISC",
